@@ -18,7 +18,7 @@ If you haven't already, clone this repository to your local machine using:
 
 bash
 Copy code
-git clone https://github.com/yourusername/qr-code-scanner-python.git
+git clone https://github.com/IkigaiAndra/QR-CODE-SCANNER-python.git
 cd qr-code-scanner-python
 2. Install Dependencies
 You'll need to install the required Python libraries. You can do this by running the following command:
